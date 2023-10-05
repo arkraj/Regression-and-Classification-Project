@@ -1,2 +1,4 @@
-# YHills_Internship_project
-Project done during intership at yHills
+# Project topics 
+1. Classification: Prediction of H1N1 vaccination
+2. Regression: Taxi Fare Prediction
+
